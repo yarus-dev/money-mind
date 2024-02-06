@@ -1,0 +1,25 @@
+{
+  "name": "money-mind",
+  "description": "Enjoy guilt-free spending and effortless saving with a friendly, flexible method for managing your finances.",
+  "author": "Yaroslav Usenko <yar.usenko.inc@gmail.com> (https://yarus.app)",
+  "homepage": "https://money-mind.yarus.app",
+  "repository": "github:yarus-dev/money-mind",
+  "bugs": "https://github.com/yarus-dev/money-mind/issues",
+  "private": true,
+  "license": "UNLICENSED",
+  "workspaces": [
+    "app"
+  ],
+  "scripts": {
+    "clean": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  }
+}
